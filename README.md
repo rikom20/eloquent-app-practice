@@ -27,3 +27,5 @@
 「新規作成」から投稿を追加できる
 「編集」から投稿を更新できる
 「削除」で投稿が削除される
+<img width="434" height="156" alt="image" src="https://github.com/user-attachments/assets/11cd7a64-f525-41d6-b966-7a6cd34ba905" />
+
